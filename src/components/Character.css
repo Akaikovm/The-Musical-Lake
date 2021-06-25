@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+}
+
+.container img {
+  height: 15vmin;
+  padding-left: 50px;
+  justify-content: space-around;
+  margin-bottom: 5px;
+}
+
+.buttons {
+  margin: 3px;
+  height: 40px;
+}
+
+.buttons:hover {
+  background: rgb(197, 197, 49);
+  cursor: pointer;
+}
